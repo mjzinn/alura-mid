@@ -1,1 +1,1 @@
-# alura-mid
+# aluramid
